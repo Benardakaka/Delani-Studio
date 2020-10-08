@@ -10,6 +10,8 @@ html{
     justify-content: space-between;
     border-left:5%;
 }
+
+
 .contactUs{
     background-image:url("../images/backgrounds/c_image.jpg");
     background-size: cover;
@@ -21,12 +23,16 @@ html{
 #socialMedia{
     margin-top: 2%;
 }
+
+
 #contact{
     text-align: center;
     color:white;
     text-transform: uppercase;
     padding-top:1em;
 }
+
+
 #home{
     background-image:url("../images/backgrounds/h_img.jpg");
     background-size:cover;
@@ -35,9 +41,12 @@ html{
     height: 100vh;
     color: white;
 }
+
+
 .homeText{
     text-align: center;
     padding-top: 15%;
+
 
 }
 #delani,#welcome{
@@ -45,22 +54,33 @@ html{
     font-size:40px;
     font-weight: 700;
 }
+
+
 .amazing{
     font-size:10px;
 }
+
+
 .mouseClick{
-    padding-top:190px;
+    padding-top:20px;
 }
+
+
   #aboutUs,.services,#whatWeDo,#port,#content{
      padding-top:2%;
      text-align: center;
   }
+
+
  h3{
      font-weight: 800;
  }
+
  #designContent,#developmentContent,#managementContent{
      display: none;
  }
+
+
  .services{
     background-image:url("../images/backgrounds/s_image.jpg");
     background-size:cover;
@@ -70,18 +90,26 @@ html{
     color: white;
     padding-top:5%;
  }
+
+
  #h5{
      font-weight: 600;
  }
+
+
  #name,#email,#contactUs{
     background-color: transparent;  
      color: white;
  }
 
+
  .form-control::placeholder{
      color: white;
      opacity: 1;
  }
+
+
+
  .project{
      display: none;
      width: 80%;
@@ -100,7 +128,5 @@ html{
      font-weight:700px;
      border: 5px solid white;
      color: white;
-
- 
  }
  
