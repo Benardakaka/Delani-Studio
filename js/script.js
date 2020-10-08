@@ -56,5 +56,5 @@ $(document).ready(function () {
 });
 
 function main() {
-    alert("Thank you for reaching out to us..getting back to you");
+    alert("Chunga s");
 }
