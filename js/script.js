@@ -1,4 +1,3 @@
-
 $(document).ready(function () {
     $(".design").click(function () {
         $("#designImg").toggle();
@@ -59,6 +58,5 @@ function main() {
     alert("Hello ,thank you for contacting us ,please click 'OK' to Sign in");
 }
 
-// function ben() {
-//     alert("Mr Benard Akaka will contact you soon");
-// }
+
+
