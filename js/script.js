@@ -3,7 +3,7 @@ $(document).ready(function () {
         $("#designImg").toggle();
         $("#designContent").toggle();
     });
-    
+
     $(".development").click(function () {
         $("#developmentImg").toggle();
         $("#developmentContent").toggle();
@@ -57,8 +57,10 @@ $(document).ready(function () {
 
 function main() {
     alert("Hello ,thank you for contacting us ,please click 'OK' to Sign in");
-    ("thank");
 }
+
+
+
 
 
 
