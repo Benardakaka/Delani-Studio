@@ -57,5 +57,5 @@ $(document).ready(function () {
 
 function main() {
     alert("Hello ,thank you for contacting us ,please click 'OK' to Sign in");
-    alert("Mr.Benard Akaka will contact you shortly");
+    // alert("Mr.Benard Akaka will contact you shortly");
 }
