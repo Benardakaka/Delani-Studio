@@ -76,7 +76,7 @@
 });
 
 function main() {
-    alert("Hello ,Benard Akaka will call you shortly. please click OK ");
+    alert("Hello carol ,we have received your message. Thank you fro reaching out to us. **");
 }
 
 
