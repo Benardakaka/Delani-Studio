@@ -76,7 +76,7 @@
 });
 
 function main() {
-    alert("Hello ,thank you for contacting us ,please click 'OK' to Sign in");
+    alert("Hello, we have received your message. Thank You for reaching out to us");
 }
 
 
