@@ -8,7 +8,7 @@ gkout -b improve-feature`)
 - Make the appropriate changes in the files
 - Add changes to reflect the changes made
 - Commit your changes (`git commit -am 'Improve feature'`)
-- Push to the branch (`git push origin improve-feature`)
+- Push to the branch (`git push origin improve-feature.`)
 - Create a Pull Request 
 
 *This is a detailed description of My application, including m purpose and usage.
