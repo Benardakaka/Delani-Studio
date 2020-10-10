@@ -76,7 +76,7 @@
 });
 
 function main() {
-    alert("Hello carol ,we have received your message. Thank you fro reaching out to us. **");
+    alert("Hello carol ,we have received your message. Thank you for reaching out to us. **");
 }
 
 
