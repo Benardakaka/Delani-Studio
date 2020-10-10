@@ -13,20 +13,24 @@
 </head>
 
 <body>
-    <div class="container-fluid">
+    <div class="container">
         <div id="home">
             <div class="homeText">
                  <img src="images/logo/logo.png" class="img-fluid">
                 <p id="welcome">WELCOME</p>
                 <p id="delani">TO DELANI STUDIO</p>
                 <p class="amazing">AMAZING PEOPLE ARE MAKING AMAZING DESIGNS IN A FUN ENVIRONMENT</p>
+                <div class="joker">
+                <img src="images/mouse_click.png" class="box bounce-5">
             </div>
-
+            </div>
+<!-- 
             <div class="mouseClick">
                 <a href="#aboutUs">
-                    <img src="images/mouse_click.png" class="mx-auto d-block pt-8 jump">
+                    <div class="box bounce-5"></div>
+                    <img src="images/mouse_click.png" class="box bounce-5">
                 </a>
-            </div>
+            </div> -->
         </div>
 
         
@@ -115,6 +119,8 @@
                         <p id="project1" class="project">VIDEO EDITOR</p>
                     </div>
                 </div>
+
+
                 <div class="col-md-3 mb-4 d-flex align-items-stretch">
                     <div>
                         <div class="view overlay" id="img2">
@@ -123,6 +129,8 @@
                         <p id="project2" class="project">PICTURES</p>
                     </div>
                 </div>
+
+
                 <div class="col-md-3 mb-4 d-flex align-items-stretch">
                     <div>
                         <div class="view overlay" id="img3">
@@ -130,7 +138,9 @@
                         </div>
                         <p id="project3" class="project">ONTARIO</p>
                     </div>
-                </div>
+                 </div>
+
+
                 <div class="col-md-3 mb-4 d-flex align-items-stretch">
                     <div>
                         <div class="view overlay" id="img4">
@@ -148,9 +158,11 @@
                         <div class="view overlay" id="img5">
                             <img src="images/portfolio/work8.jpg" class="img-fluid">
                         </div>
+
                         <p id="project5" class="project">VIDEO EDITOR</p>
                     </div>
                 </div>
+                
                 <div class="col-md-3 mb-4 d-flex align-items-stretch">
                     <div>
                         <div class="view overlay" id="img6">
@@ -192,21 +204,21 @@
                 <div class="form-group">
                     <div class="row">
                         <div class="col">
-                            <input type="text" class="form-control" placeholder="Name.. " id="name" class="" required>
+                            <input type="text" class="form-control" placeholder="Name.. " id="name" class="" validate>
                         </div>
                         <div class="col">
-                            <input type="email" class="form-control" placeholder="Email.." id="email" class="" required>
+                            <input type="email" class="form-control" placeholder="Email.." id="email" class="" validate>
                         </div>
                     </div>
                 </div>
 
                 <div class="form-group">
-                    <textarea class="form-control rounded-0" id="contactUs" rows="6" id="message" placeholder="Your message here..." required></textarea>
+                    <textarea class="form-control rounded-0" id="contactUs" rows="6" id="message" required placeholder="Your message here..." required></textarea>
                 </div>
                 <br><br>
 
                   <div class=" clear col-2 mt-3 mx-auto mb-4">
-                        <input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="validate">
+                        <input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="required">
                     </div>
             </form>
         </div>
@@ -240,7 +252,7 @@
                     <a href=""><img src="images/social_icons/pinterest.png"></a>
                 </div>
                 <div class="col">
-                    <a href=""><img src="images/social_icons/"></a>
+                    <a href=""><img src="images/social_icons/flickr.png"></a>
                 </div>
             </div>
         </div>
