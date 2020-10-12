@@ -35,7 +35,7 @@
     $("#img3").mouseover(function () {
         $("#project3").show();
     }).mouseout(function () {
-        $("#project3").hide();
+        $("#project3").hide(5000);
     });
 
 
