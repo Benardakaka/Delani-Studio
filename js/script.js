@@ -49,7 +49,7 @@
     $("#img5").mouseover(function () {
         $("#project5").show();
     }).mouseout(function () {
-        $("#project5").hide(5000);
+        $("#project5").hide(4500);
     });
 
 
