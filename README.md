@@ -16,7 +16,8 @@ gkout -b improve-feature`)
 * This is a great place to be
 * Run today and walk tomorrow
 ## Known Bugs
-* there are some issues which had not been solved yet but coming soon, shall be solved
+
+## Behavior Driven Development
 <table>
     <tr>
       <th>Behavior</th> 
@@ -28,25 +29,23 @@ gkout -b improve-feature`)
         <td>scroll and click on what we do icon section and portfolio images </td>
         <td>reveals more description</td>
     </tr> 
-    
     <tr>
         <td>Enter your name if you want to leave a message</td>
         <td>['BENARD']</td>
-        <td>name = 'BenardAkaka'</td>
+        <td>name = 'BENARDAKAKA'</td>
     </tr>
-
     <tr>
         <td>Enter Email && Message</td>
         <td>['Email','Message']</td>
         <td>Email && Message</td>
     </tr>
-
     <tr>
         <td>Submit</td>
         <td>Email && Message</td>
         <td>'Hello, we have received your message. Thank you for reaching out to us'</td>
-    </tr>   
+    </tr>
 </table>
+
 ## Technologies Used
 * HTML
 * CSS
