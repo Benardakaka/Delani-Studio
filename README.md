@@ -56,7 +56,7 @@ gkout -b improve-feature`)
 * CONTACTS:+254746225871;
 * benardakaka484gmail.com
 ### License
-* {MIT License <a href="https://github.com/Benardakaka?tab=repositories">
+* {MIT License "https://github.com/Benardakaka?tab=repositories"
 
 Copyright (c) [2020] [Benard Akaka]
 
