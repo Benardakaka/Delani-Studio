@@ -17,7 +17,7 @@ gkout -b improve-feature`)
 * Run today and walk tomorrow
 ## Known Bugs
 * there are some issues which had not been solved yet but coming soon, shall be solved
-table>
+<table>
     <tr>
       <th>Behavior</th> 
       <th>Input</th> 
