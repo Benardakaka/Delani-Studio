@@ -16,8 +16,9 @@ gkout -b improve-feature`)
 * This is a great place to be
 * Run today and walk tomorrow
 ## Known Bugs
-* there are some issues which had not been solved yet but coming soon, shall be solved
-table>
+
+## Behavior Driven Development
+<table>
     <tr>
       <th>Behavior</th> 
       <th>Input</th> 
@@ -28,36 +29,34 @@ table>
         <td>scroll and click on what we do icon section and portfolio images </td>
         <td>reveals more description</td>
     </tr> 
-    
     <tr>
         <td>Enter your name if you want to leave a message</td>
         <td>['BENARD']</td>
-        <td>name = 'BenardAkaka'</td>
+        <td>name = 'BENARDAKAKA'</td>
     </tr>
-
     <tr>
         <td>Enter Email && Message</td>
         <td>['Email','Message']</td>
         <td>Email && Message</td>
     </tr>
-
     <tr>
         <td>Submit</td>
         <td>Email && Message</td>
         <td>'Hello, we have received your message. Thank you for reaching out to us'</td>
-    </tr>   
+    </tr>
 </table>
+
 ## Technologies Used
 * HTML
 * CSS
 * BOOTSTRAP 4
-*JAVASCRIPT
+* JAVASCRIPT
 
 ## Support and contact details
-*CONTACTS:+254746225871;
-*benardakaka484gmail.com
+* CONTACTS:+254746225871;
+* benardakaka484gmail.com
 ### License
-*{MIT License
+* {MIT License "https://github.com/Benardakaka?tab=repositories"
 
 Copyright (c) [2020] [Benard Akaka]
 
@@ -77,6 +76,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.}*
+SOFTWARE.} *
 
 Copyright (c) {2020} **{Benard Akaka}**
