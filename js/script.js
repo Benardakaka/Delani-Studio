@@ -76,9 +76,12 @@
 });
 
 function main() {
-    alert("Hello, we have received your message. Thank you for reaching out to us. *");
-}
+    var name = document.getElementById("name").value;
+    if(name){
+    alert("Hello,"+ name + " we have received your message. Thank you for reaching out to us. *");
 
+} 
+}
 
 
 
