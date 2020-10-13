@@ -20,7 +20,7 @@
     $("#img1").mouseover(function () {
         $("#project1").show();
     }).mouseout(function () {
-        $("#project1").hide(5000);
+        $("#project1").hide();
     });
 
 
@@ -28,35 +28,35 @@
     $("#img2").mouseover(function () {
         $("#project2").show();
     }).mouseout(function () {
-        $("#project2").hide(5000);
+        $("#project2").hide();
     });
 
 
     $("#img3").mouseover(function () {
         $("#project3").show();
     }).mouseout(function () {
-        $("#project3").hide(5000);
+        $("#project3").hide();
     });
 
 
     $("#img4").mouseover(function () {
         $("#project4").show();
     }).mouseout(function () {
-        $("#project4").hide(5000);
+        $("#project4").hide();
     });
 
 
     $("#img5").mouseover(function () {
         $("#project5").show();
     }).mouseout(function () {
-        $("#project5").hide(4500);
+        $("#project5").hide();
     });
 
 
     $("#img6").mouseover(function () {
         $("#project6").show();
     }).mouseout(function () {
-        $("#project6").hide(5000);
+        $("#project6").hide();
     });
 
 
@@ -64,14 +64,14 @@
     $("#img7").mouseover(function () {
         $("#project7").show();
     }).mouseout(function () {
-        $("#project7").hide(5000);
+        $("#project7").hide();
     });
 
 
     $("#img8").mouseover(function () {
         $("#project8").show();
     }).mouseout(function () {
-        $("#project8").hide(5000);
+        $("#project8").hide();
     });
 });
 
